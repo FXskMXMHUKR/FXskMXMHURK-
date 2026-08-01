@@ -107,7 +107,3 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@SS_Gloomy_SS)
 [![VK](https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/byfxskmxmhukr)
-
----
-```markdown
-<img src="https://komarev.com/ghpvc/?username=FXskMXMHURK&label=Просмотров&color=0e75b6&style=flat" alt="счётчик" />
