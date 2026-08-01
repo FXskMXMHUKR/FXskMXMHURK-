@@ -7,12 +7,8 @@
 ---
 
 ## 💻 Технологический стек
-
-### Языки, с которыми я работаю:
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### Инструменты и среды:
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **Языки:** C++, Python, JavaScript, HTML5/CSS3
+* **Инструменты:** Windows API, Git, Roblox Luau
 
 ---
 
